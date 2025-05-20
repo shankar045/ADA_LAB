@@ -1,6 +1,3 @@
-/*Find Minimum Cost Spanning Tree of a given undirected
-graph using Prim’s algorithm*/
-
 #include <stdio.h>
 #include <limits.h>
 
@@ -71,11 +68,3 @@ int main() {
     return 0;
 }
 
-/* OUTPUT
-Edge    Weight
-0 - 1   2 
-1 - 2   3 
-0 - 3   6 
-1 - 4   5 
-Total cost of Minimum Spanning Tree: 16
-*/
